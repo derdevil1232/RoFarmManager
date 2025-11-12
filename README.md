@@ -1,4 +1,3 @@
-```markdown
 # Roblox Reconnect Script (Termux)
 
 This is a Termux-compatible Bash script that:
@@ -30,6 +29,3 @@ Usage:
 Files:
 - reconnect.sh : The main script.
 - README.md : This file.
-
-If you want improvements (e.g., service/foreground implementation, logging to file, or different deep-link formats), tell me what device/Android version you are using and I can adjust the intents.
-```
